@@ -1,0 +1,5 @@
+El sistema debe ser capaz de poer recibir varias solicitudes de paquetes y tener el seguimiento contaste y actualizado de estos.
+Los permisos de acceso al sistema podrán ser cambiados solamente por el administrador.
+Si se identifican ataques de seguridad o brecha del sistema, el mismo no continuará operando hasta ser solucionado el ataque.
+El sistema debe contar con manuales de usuario o con un contacto de ayuda en linea.
+El sistema debe tener una organizacion grafuca bien estructurada asi como tambien tener registro de todos los movimientos hechos por los clientes y administradores asi como de los movimientos de los paquetes.
