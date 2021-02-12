@@ -1,0 +1,7 @@
+El sistema enviara un correo electronuco confirmando el pago del pedido, asi como el tiempo estimado y el estado del paquete.
+Al aprobar un pedido, la solicitud pasará al siguiente paso del flujo de trabajo de aprobación de la compra.
+Al momento de que el pedido e realiado, se notificara por medio del sistema al empleado encargado de los envios, asi como saber cuales paquetes fueron enviados y los que aun siguen en espera.
+Al momento de ser realizado el pago, el paquete estara en un estimado de fecha para el envio, teniendo el cuenta el lugar donde sera enviado, cuando llegara a la ciudad de destino y cuando este mismo sera enviado desde la paqueteria destinada.
+Se mantendra informado al cliente sobre su pedido mandandole correos contantes sobre los movimientos del paquete, el cual cada que haga un cambio o un viaje, sera actualizado su estado.
+Se le notificara al cliente cuando su paquete este en camino hacia su domicilio o lugar de envio, para estar atebto del paquete y pueda resivirlo de manera correcta y sin errores.
+De no ser recibido el paquete, este se mantendra en paqueteria hasta el dia habil siguiente, de no ser recivida otra vez, se le notificara al cliente sobre el error y este tendra que mandar un correo para poder recibir su paquete.
